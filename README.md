@@ -1,5 +1,5 @@
 - Hey, I'm Or :smiley: 3'rd year computer science student.
-- languages: • C • C++ • Python • x86 assembly 
+- languages: • C • C++ • Python • Assembly • SQL 
 - fields: • Algorithms • Computer Vision & Image Processing • Graph theory
 - 📫 orlevy11@gmail.com
 - :computer: some of my work :computer: 
