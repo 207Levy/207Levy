@@ -5,6 +5,7 @@
 - :computer: some of my work :computer: 
 
 <img src="https://github.com/207Levy/AR-Project/blob/main/ar.gif" width="300" height="200"> <img src="https://github.com/207Levy/Lane-Detection--Primitive/blob/main/ezgif.com-gif-maker.gif" width="300" height="200" />
+<img src="https://github.com/207Levy/chess_detection-YOLOv3-transfer-learning/blob/main/demo.gif" width="300" height="200" />
 
 
 
