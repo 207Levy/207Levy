@@ -8,7 +8,6 @@
 
 <img src="https://github.com/207Levy/chess_detection-YOLOv3-transfer-learning/blob/main/demo.gif" width="300" height="200" /><img src="https://github.com/207Levy/Cell-Instance-Segmentation/blob/main/demo.png" width="300" height="200" />
 
-<img src="https://github.com/207Levy/detect-the-dancer/blob/main/dance.gif" width="600" height="400" />
 <!---
 207Levy/207Levy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
